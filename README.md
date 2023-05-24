@@ -28,7 +28,8 @@ Average signal strength: -54.6625
         {
             "macAddress": "MM:MM:MM:SS:SS:SS",
             "signalStrength": -69.1
-        }
+        },
+        ...
     ]
 }
 ```
